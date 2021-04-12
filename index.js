@@ -1,4 +1,3 @@
-let btn = document.querySelector("#btn")
 let h2Ingredientes = document.querySelector("#ingredientes")
 let h2Preparo = document.querySelector("#modo")
 let ul= document.querySelector("#lista")
